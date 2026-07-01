@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6k0219/x/v1/juan/0
+seq: 0
+front:
+  text: 終南家業目錄四明䥫翁宗師述門人行枝編上卷教觀撮要三觀塵露答日本芿法師教觀諸問中卷重受戒文戒體正義直言四諍要論衣制格言論分部論僧體科釋雜心論出三有對文受緣重開下卷論心用雙持犯結制罪辨二止並八九名義重釋事鈔持犯篇通塞文重答欽師境想問㭊然夢庵持犯四難徵顯定道二戒略辨正用相從略議第七非體辨略教結犯
+  hash: sha256:6d5f47049423e012c81bd72d93d9e60d4e8646d2ad6dff4a673ce25fe1403743
+  markers:
+  - {type: 其他, offset: 0, content: 終南家業目錄, id: KR6k0219_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 終南家業
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1109.xml
+    old_id: X59n1109
+hash: sha256:b59d1c80083c59ab1a11a3882dbdcb49dc676f28028e6bce85289ba66e5a4adc

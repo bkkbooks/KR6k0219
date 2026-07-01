@@ -1,0 +1,428 @@
+canonical_identifier: bkk:krp/KR6k0219/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0219/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 終南家業
+  identifiers:
+    krp: KR6k0219
+    cbeta: X59n1109
+    cbeta_old_id: X59n1109
+    authorityid: CA0004108
+    json_key: X1109
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1109.xml
+    old_id: X59n1109
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0219_000-X.yaml, hash: 'sha256:b59d1c80083c59ab1a11a3882dbdcb49dc676f28028e6bce85289ba66e5a4adc'}
+  - {seq: 2, filename: KR6k0219_002-X.yaml, hash: 'sha256:303b6eadaa1e454bac98ba4977330e6a6e52436c4a882e533e97957a2aa889f4'}
+  - {seq: 3, filename: KR6k0219_003-X.yaml, hash: 'sha256:0ea62c80a190c47eb9c7483514ebadcdb2684c427d0ff4b89df0cabf26ade018'}
+  - {seq: 4, filename: KR6k0219_004-X.yaml, hash: 'sha256:41d4a442207880fc60febee737ebca916e13892669751eb9b2507a051119469a'}
+  - {seq: 5, filename: KR6k0219_005-X.yaml, hash: 'sha256:ba775f34a3671a5ef2977a9ae5f0696d023c1159c15236d03a38d37a7f78950b'}
+  - {seq: 6, filename: KR6k0219_006-X.yaml, hash: 'sha256:f259a7ef24ff219429acdcfebe667e77ab2fd5ac5ee7f1cca82713b0223373a8'}
+  - {seq: 7, filename: KR6k0219_007-X.yaml, hash: 'sha256:5eb95e91325614fcc65218aebf2ab8b914adc00e55fbd0f4ea3c29e19a4f3576'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0219_000-X.markers.yaml, hash: 'sha256:0086f27740704bfe598232a080547688112ebb9ad9114f51b52668a5899ef9ac'}
+  - {seq: 2, role: markers, filename: assets/KR6k0219_002-X.markers.yaml, hash: 'sha256:9a72a9d1a75d77fbb377fcbc8776eb61db187cb24785d110f64f9e4421d771f8'}
+  - {seq: 3, role: markers, filename: assets/KR6k0219_003-X.markers.yaml, hash: 'sha256:58bbb12ae9b7ca07fd58cbecfd0d435b24a04366f5249ca623cd3668217fda1f'}
+  - {seq: 4, role: markers, filename: assets/KR6k0219_004-X.markers.yaml, hash: 'sha256:0bdd5dc07f08273c08969d10bfb155a6749cdd5d7ba3f993016365322731e215'}
+  - {seq: 5, role: markers, filename: assets/KR6k0219_005-X.markers.yaml, hash: 'sha256:26bbc623bdf4675b8992864c2618ecaef2abe10512787cff28a963a00e81a814'}
+  - {seq: 6, role: markers, filename: assets/KR6k0219_006-X.markers.yaml, hash: 'sha256:3fd1b764b4fd346e9273e30f7b074b1726c58d8dbd2f606329678864bae87491'}
+  - {seq: 7, role: markers, filename: assets/KR6k0219_007-X.markers.yaml, hash: 'sha256:3a5429c81462fb0223a9b08e65de800bd715ed59ddb2899be89f4015f73e4845'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0219_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 終南家業目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0219_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 13760
+  label: 終南家業卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0219_X_1a-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 教觀撮要
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0219_X_1a-mulu-2
+    span:
+    - body
+    - 1248
+    - 1248
+  label: 三觀塵露
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0219_X_1a-mulu-3
+    span:
+    - body
+    - 1252
+    - 1252
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0219_X_1a-mulu-4
+    span:
+    - body
+    - 1507
+    - 1507
+  label: 第一引本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0219_X_1a-mulu-5
+    span:
+    - body
+    - 1765
+    - 1765
+  label: 第二敘釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0219_X_1a-mulu-6
+    span:
+    - body
+    - 4950
+    - 4950
+  label: 第三示立意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0219_X_1a-mulu-7
+    span:
+    - body
+    - 5688
+    - 5688
+  label: 第四決異傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0219_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 11672
+  label: 終南家業卷上末
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0219_X_1b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 答日本芿法師教觀諸問
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0219_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 13454
+  label: 終南家業卷中本
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0219_X_2a-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 重受戒父
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0219_X_2a-mulu-2
+    span:
+    - body
+    - 82
+    - 82
+  label: 初引據
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0219_X_2a-mulu-3
+    span:
+    - body
+    - 596
+    - 596
+  label: 二立義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0219_X_2a-mulu-4
+    span:
+    - body
+    - 925
+    - 925
+  label: 三釋疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0219_X_2a-mulu-5
+    span:
+    - body
+    - 2732
+    - 2732
+  label: 戒體正義直言
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0219_X_2a-mulu-6
+    span:
+    - body
+    - 9844
+    - 9844
+  label: 四諍要論
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0219_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 10082
+  label: 終南家業卷中末
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0219_X_2b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 衣制格言
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0219_X_2b-mulu-2
+    span:
+    - body
+    - 2365
+    - 2365
+  label: 論分部
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0219_X_2b-mulu-3
+    span:
+    - body
+    - 3978
+    - 3978
+  label: 論僧體
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0219_X_2b-mulu-4
+    span:
+    - body
+    - 4776
+    - 4776
+  label: 科釋雜心論出三有對文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0219_X_2b-mulu-5
+    span:
+    - body
+    - 7263
+    - 7263
+  label: 受緣重關
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0219_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 8855
+  label: 終南家業卷下本
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0219_X_3a-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 論心用雙持犯結制罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0219_X_3a-mulu-2
+    span:
+    - body
+    - 1800
+    - 1800
+  label: 辨二止并八九名義
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0219_X_3a-mulu-3
+    span:
+    - body
+    - 4177
+    - 4177
+  label: 重釋事鈔持犯篇通塞文
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0219_X_3a-mulu-4
+    span:
+    - body
+    - 5610
+    - 5610
+  label: 重答欽師境想問
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0219_X_3a-mulu-5
+    span:
+    - body
+    - 8672
+    - 8672
+  label: 㭊然夢庵持犯四難
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0219_X_3a-mulu-6
+    span:
+    - body
+    - 8680
+    - 8680
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0219_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 10503
+  label: 終南家業卷下末
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0219_X_3b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 雙單難辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0219_X_3b-mulu-2
+    span:
+    - body
+    - 3298
+    - 3298
+  label: 止作難明
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0219_X_3b-mulu-3
+    span:
+    - body
+    - 5671
+    - 5671
+  label: 事法難顯
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0219_X_3b-mulu-4
+    span:
+    - body
+    - 5911
+    - 5911
+  label: 徵顯定道二戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0219_X_3b-mulu-5
+    span:
+    - body
+    - 7747
+    - 7747
+  label: 略辨正用相從
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0219_X_3b-mulu-6
+    span:
+    - body
+    - 8137
+    - 8137
+  label: 略議第七非體
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0219_X_3b-mulu-7
+    span:
+    - body
+    - 9042
+    - 9042
+  label: 辨略教結犯
+  type: mulu
+  level: 1
+hash: sha256:a03fba49d9fc90cd127cfaad116fa613530560db70f1d7860578a38115c4d2a1
