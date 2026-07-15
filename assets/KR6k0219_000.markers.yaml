@@ -11,10 +11,12 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR6k0219_X_000-0717b06, ed: X, 'n': 0717b06}
   - {type: line-break, offset: 0, content: '', id: KR6k0219_X_000-0717b07, ed: X, 'n': 0717b07}
   - {type: line-break, offset: 0, content: '', id: KR6k0219_X_000-0703a01, ed: R105, 'n': 0703a01}
+  - {type: substitution, offset: 5, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: line-break, offset: 6, content: '', id: KR6k0219_X_000-0717b08, ed: X, 'n': 0717b08}
   - {type: line-break, offset: 6, content: '', id: KR6k0219_X_000-0703a02, ed: R105, 'n': 0703a02}
   - {type: xml-element, offset: 6, content: '', id: KR6k0219_X_000-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': author}}
   - {type: indent, offset: 8, content: 　, id: KR6k0219_X_000-bkkind1}
+  - {type: substitution, offset: 8, original: 䥫, replacement: 鐵, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-5795}}
   - {type: indent, offset: 12, content: 　, id: KR6k0219_X_000-bkkind2}
   - {type: xml-element, offset: 13, content: '', id: KR6k0219_X_000-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': author}}
   - {type: line-break, offset: 13, content: '', id: KR6k0219_X_000-0717b09, ed: X, 'n': 0717b09}
@@ -93,6 +95,7 @@ markers:
   - {type: variant, offset: 113, length: 1, content: 已, 卍續: 巳}
   - {type: xml-element, offset: 114, content: '', id: itemX59p0717b2201_end, name: item, role: close, attrs: {'xml:id': itemX59p0717b2201}}
   - {type: xml-element, offset: 114, content: '', id: itemX59p0717b2208, name: item, role: open, attrs: {'xml:id': itemX59p0717b2208}}
+  - {type: substitution, offset: 114, original: 㭊, replacement: 析, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-2486}}
   - {type: xml-element, offset: 122, content: '', id: itemX59p0717b2208_end, name: item, role: close, attrs: {'xml:id': itemX59p0717b2208}}
   - {type: line-break, offset: 122, content: '', id: KR6k0219_X_000-0717b23, ed: X, 'n': 0717b23}
   - {type: line-break, offset: 122, content: '', id: KR6k0219_X_000-0703a17, ed: R105, 'n': 0703a17}
@@ -298,4 +301,4 @@ markers:
   - {type: variant, offset: 12696, length: 1, content: 已, 卍續: 巳}
   body: []
   back: []
-hash: sha256:d0fe590c834e025029f7f715120a765193ee96a9bac30bb00340ffc0f2710955
+hash: sha256:1a30130c2fa741b3f9ee578bf29fb26c8760656f5fb14dc644cbb370f8a2869e
